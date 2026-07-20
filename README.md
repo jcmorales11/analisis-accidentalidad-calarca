@@ -42,5 +42,4 @@ Los datos utilizados en este desarrollo son oficiales, públicos y provienen del
 * **Dataset:** Histórico de Accidentes de Tránsito / Siniestralidad Vial.
 * **Entidad emisora:** Ministerio de Tecnologías de la Información y las Comunicaciones de Colombia (MinTIC)
 * **Filtro temporal:** Registros consolidados entre los años 2017 y 2022.
-* **Enlace de referencia(Origen de los datos):** [Portal de Datos Abiertos de Colombia](https://www.datos.gov.co/Transporte/ACCIDENTES-DE-TRANSITO-DESDE-MARZO-2017-A-DICIEMBR/wacd-xkg8/data_preview)
-  
+* * **Enlace oficial:** [Accidentes de Tránsito (2017 - 2022) - Datos Abiertos](https://www.datos.gov.co/Transporte/ACCIDENTES-DE-TRANSITO-DESDE-MARZO-2017-A-DICIEMBR/wacd-xkg8)
