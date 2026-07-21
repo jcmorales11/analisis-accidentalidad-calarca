@@ -11,18 +11,6 @@ El reporte está desarrollado bajo un enfoque narrativo y técnico dividido en c
 3. **Simulación PNSV 2030:** Un simulador interactivo utilizando parámetros DAX que permite evaluar el impacto de las políticas públicas y los accidentes evitados según las metas de decremento establecidas.
 4. **Conclusiones y Hallazgos:** Interpretación narrativa de los datos y objetos visuales presentados a lo largo del informe.
 
-## Fuente Normativa: Plan Nacional de Seguridad Vial (PNSV)
-
-El escenario de simulación e intervención (2030) presentado en este análisis se fundamenta en las metas oficiales establecidas por el Gobierno Nacional de Colombia.
-
-* **Documento de Referencia:** Plan Nacional de Seguridad Vial 2022-2031
-* **Entidad Responsable:** Agencia Nacional de Seguridad Vial (ANSV), adscrita al Ministerio de Transporte de la República de Colombia
-* **Marco Normativo:** Decreto 1430 de 2022 / Ley 1702 de 2013
-* **Enfoque Adoptado:** Visión Cero / Sistema Seguro (recomendado por la OMS y el Foro Internacional de Transporte)
-* **Portal Oficial:** [Agencia Nacional de Seguridad Vial (ansv.gov.co)](https://ansv.gov.co/agencia/pnsv/presentacion)
-
-> **Nota:** El acceso automatizado al sitio oficial de la ANSV está restringido (bloqueo por robots.txt). El documento fue descargado y consultado manualmente para la extracción de las metas de reducción utilizadas en el simulador DAX.
-
 ## Hallazgos Clave
 
 ### La Paradoja de Severidad Vial
@@ -69,7 +57,7 @@ El escenario de simulación e intervención (2030) presentado en este análisis 
 * **Enfoque Adoptado:** Visión Cero / Sistema Seguro (recomendado por la OMS y el Foro Internacional de Transporte)
 * **Portal Oficial:** [Agencia Nacional de Seguridad Vial (ansv.gov.co)](https://ansv.gov.co/agencia/pnsv/presentacion)
 
-> **Nota:** El acceso automatizado al sitio oficial de la ANSV está restringido (bloqueo por robots.txt). El documento fue descargado y consultado manualmente para la extracción de las metas de reducción utilizadas en el simulador DAX.
+**Nota:** El acceso automatizado al sitio oficial de la ANSV está restringido (bloqueo por robots.txt). El documento fue descargado y consultado manualmente para la extracción de las metas de reducción utilizadas en el simulador DAX.
 
 ## Recomendaciones para Fases Futuras
 
