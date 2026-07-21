@@ -76,3 +76,7 @@ El escenario de simulación e intervención (2030) presentado en este análisis 
 1. **Muestreo y Validación en Fuente Original:** Entrevistar o consultar formalmente a la entidad emisora (Secretaría de Movilidad / Policía de Tránsito) para auditar el protocolo de registro del IPAT en fines de semana.
 2. **Cruce con Fuentes Complementarias:** Contrastar este dataset con registros de atención hospitalaria/urgencias o ingresos a fiscalía de los mismos periodos para determinar la tasa real de siniestralidad de los días domingo.
 3. **Normalización del Sesgo:** En caso de confirmarse el desfase en las fechas de ingreso, aplicar un modelo de ajuste o redistribución probabilística para los picos registrados los días lunes.
+
+
+**[Ver reporte interactivo](https://app.powerbi.com/view?r=eyJrIjoiNDRkMmI3NGUtNDZmNi00NzkyLTk5YmUtNTM1N2QwM2ZlOTlkIiwidCI6ImZkNjljZTFiLTIwYzYtNDJlYy1iNTRlLTZkMWIzODcwYWM2ZSIsImMiOjR9)**
+**[Descargar archivo .pbix](<./Informe%20Accidentalidad%20Calarc%C3%A1%20(2017-2022).pbix>)**
