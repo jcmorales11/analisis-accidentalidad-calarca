@@ -35,7 +35,6 @@ A través del cruce de variables cronológicas y de gravedad, se identificó un 
 
 ### Proyección Inercial vs. Escenario Intervenido (2030)
 
-* **Escenario Base (Inercial):** Al aplicar modelos de extrapolación estadística hacia el año 2030, se evidencia que, de mantenerse la inercia actual sin intervenciones, el municipio experimentará picos cíclicos agresivos de accidentalidad que replicarán los peores años históricos.
 * **Escenario Intervenido:** El simulador interactivo demuestra matemáticamente cómo la adopción de las metas del PNSV (ej. una reducción del 50%) altera la curva de proyección en tiempo real, permitiendo cuantificar los accidentes directamente evitados en el mediano plazo.
 
 ### Anomalía en la Distribución Semanal
