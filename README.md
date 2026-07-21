@@ -35,11 +35,11 @@ A través del cruce de variables cronológicas y de gravedad, se identificó un 
   * Creación de parámetros dinámicos para la simulación de hipótesis (*What-If analysis*).
   * Programación de medidas híbridas de series temporales para el cálculo de tasas de variación anual acumulada.
  
-## Fuente de los Datos
+## Fuente de Datos y Linaje (Data Lineage)
 
-Los datos utilizados en este desarrollo son oficiales, públicos y provienen del **Portal de Datos Abiertos del Estado Colombiano (datos.gov.co)**. 
+Los datos procesados son oficiales, públicos y pertenecen al marco de transparencia del Estado Colombiano.
 
-* **Dataset:** Histórico de Accidentes de Tránsito / Siniestralidad Vial.
-* **Entidad emisora:** Ministerio de Tecnologías de la Información y las Comunicaciones de Colombia (MinTIC)
-* **Filtro temporal:** Registros consolidados entre los años 2017 y 2022.*
-* **Dataset oficial:** [Accidentes de Tránsito (2017 - 2022) - Datos Abiertos](https://www.datos.gov.co/d/wacd-xkg8)
+* **Portal Oficial:** [Datos Abiertos Colombia (datos.gov.co)](https://www.datos.gov.co/)
+* **Nombre del Dataset:** ACCIDENTES DE TRANSITO DESDE MARZO 2017 A DICIEMBRE DE 2022
+* **Identificador de Dataset:** `wacd-xkg8`
+* **Entidad Emisora / Cobertura:** Alcaldía Municipal de Calarcá / Instituto Departamental de Tránsito del Quindío (IDTQ)
