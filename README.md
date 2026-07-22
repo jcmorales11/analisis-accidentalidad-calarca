@@ -21,7 +21,7 @@ A través del cruce de variables cronológicas y de gravedad, se identificó un 
 * **Impacto Post-Pandemia:** Este fenómeno se tornó crítico en la etapa de reactivación económica (2022), donde los accidentes con heridos y muertes desplazaron drásticamente a los choques simples de "Solo Daños", representando más del **74%** del total de casos.
 * **Conclusión Analítica:** Aunque hay menos colisiones físicas en las vías, los incidentes actuales ocurren bajo condiciones de mayor riesgo (como excesos de velocidad o mayor flujo de carga pesada), transformando choques comunes en tragedias humanas.
 
-### Proyección Inercial vs. Escenario Intervenido (2030)
+### Escenario Intervenido (2030)
 
 * **Escenario Intervenido:** El simulador interactivo demuestra matemáticamente cómo la adopción de las metas del PNSV (ej. una reducción del 50%) altera la curva de proyección en tiempo real, permitiendo cuantificar los accidentes directamente evitados en el mediano plazo.
 
